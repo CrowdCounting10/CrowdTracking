@@ -1,0 +1,402 @@
+
+Test con sequenza: img011 algoritmo: hdbscan e bg_treshold: 0.25
+
+Test con sequenza: img011 algoritmo: hdbscan e bg_treshold: 0.25
+
+Test con sequenza: img011 algoritmo: hdbscan e bg_treshold: 0.25
+
+Test con sequenza: img011 algoritmo: hdbscan e bg_treshold: 0.25
+
+Test con sequenza: img011 algoritmo: hdbscan e bg_treshold: 0.25
+
+Test con sequenza: img011 algoritmo: hdbscan e bg_treshold: 0.25
+
+Test con sequenza: img011 algoritmo: hdbscan e bg_treshold: 0.25
+
+Test con sequenza: img011 algoritmo: hdbscan e bg_treshold: 0.25
+
+Test con sequenza: img011 algoritmo: hdbscan e bg_treshold: 0.25
+
+Test con sequenza: img011 algoritmo: hdbscan e bg_treshold: 0.25
+
+Test con sequenza: img011 algoritmo: hdbscan e bg_treshold: 0.25
+
+Test con sequenza: img011 algoritmo: hdbscan e bg_treshold: 0.25
+
+Test con sequenza: img011 algoritmo: hcluster e bg_treshold: 0.25
+Results for img011
+Clustering algorithm: hcluster
+Device: NVIDIA GeForce GTX 1650
++----+--------------+-------------+--------+
+|    |   mean (fps) |   std (fps) |    tmp |
+|----+--------------+-------------+--------|
+| 12 |     0.752209 |           0 | 15.953 |
++----+--------------+-------------+--------+
+
+Test con sequenza: img011 algoritmo: hcluster e bg_treshold: 0.5
+
+Test con sequenza: img011 algoritmo: hcluster e bg_treshold: 0.25
+Results for img011
+Clustering algorithm: hcluster
+Device: NVIDIA GeForce GTX 1650
++----+--------------+-------------+---------+
+|    |   mean (fps) |   std (fps) |     tmp |
+|----+--------------+-------------+---------|
+| 12 |     0.569223 |           0 | 21.0814 |
++----+--------------+-------------+---------+
+
+Test con sequenza: img011 algoritmo: hcluster e bg_treshold: 0.5
+Results for img011
+Clustering algorithm: hcluster
+Device: NVIDIA GeForce GTX 1650
++----+--------------+-------------+---------+
+|    |   mean (fps) |   std (fps) |     tmp |
+|----+--------------+-------------+---------|
+| 12 |     0.951064 |           0 | 12.6175 |
++----+--------------+-------------+---------+
+
+Test con sequenza: img011 algoritmo: hcluster e bg_treshold: 0.75
+Results for img011
+Clustering algorithm: hcluster
+Device: NVIDIA GeForce GTX 1650
++----+--------------+-------------+---------+
+|    |   mean (fps) |   std (fps) |     tmp |
+|----+--------------+-------------+---------|
+| 12 |      0.93608 |           0 | 12.8194 |
++----+--------------+-------------+---------+
+
+Test con sequenza: img015 algoritmo: hcluster e bg_treshold: 0.25
+Results for img015
+Clustering algorithm: hcluster
+Device: NVIDIA GeForce GTX 1650
++----+--------------+-------------+---------+
+|    |   mean (fps) |   std (fps) |     tmp |
+|----+--------------+-------------+---------|
+| 12 |     0.812891 |           0 | 14.7621 |
++----+--------------+-------------+---------+
+
+Test con sequenza: img015 algoritmo: hcluster e bg_treshold: 0.5
+Results for img015
+Clustering algorithm: hcluster
+Device: NVIDIA GeForce GTX 1650
++----+--------------+-------------+---------+
+|    |   mean (fps) |   std (fps) |     tmp |
+|----+--------------+-------------+---------|
+| 12 |     0.957154 |           0 | 12.5372 |
++----+--------------+-------------+---------+
+
+Test con sequenza: img015 algoritmo: hcluster e bg_treshold: 0.75
+Results for img015
+Clustering algorithm: hcluster
+Device: NVIDIA GeForce GTX 1650
++----+--------------+-------------+---------+
+|    |   mean (fps) |   std (fps) |     tmp |
+|----+--------------+-------------+---------|
+| 12 |      0.96157 |           0 | 12.4796 |
++----+--------------+-------------+---------+
+
+Test con sequenza: img016 algoritmo: hcluster e bg_treshold: 0.25
+Results for img016
+Clustering algorithm: hcluster
+Device: NVIDIA GeForce GTX 1650
++----+--------------+-------------+---------+
+|    |   mean (fps) |   std (fps) |     tmp |
+|----+--------------+-------------+---------|
+| 12 |     0.884845 |           0 | 13.5617 |
++----+--------------+-------------+---------+
+
+Test con sequenza: img016 algoritmo: hcluster e bg_treshold: 0.5
+Results for img016
+Clustering algorithm: hcluster
+Device: NVIDIA GeForce GTX 1650
++----+--------------+-------------+--------+
+|    |   mean (fps) |   std (fps) |    tmp |
+|----+--------------+-------------+--------|
+| 12 |     0.903886 |           0 | 13.276 |
++----+--------------+-------------+--------+
+
+Test con sequenza: img016 algoritmo: hcluster e bg_treshold: 0.75
+Results for img016
+Clustering algorithm: hcluster
+Device: NVIDIA GeForce GTX 1650
++----+--------------+-------------+---------+
+|    |   mean (fps) |   std (fps) |     tmp |
+|----+--------------+-------------+---------|
+| 12 |     0.985328 |           0 | 12.1787 |
++----+--------------+-------------+---------+
+
+Test con sequenza: img017 algoritmo: hcluster e bg_treshold: 0.25
+Results for img017
+Clustering algorithm: hcluster
+Device: NVIDIA GeForce GTX 1650
++----+--------------+-------------+---------+
+|    |   mean (fps) |   std (fps) |     tmp |
+|----+--------------+-------------+---------|
+| 12 |     0.818703 |           0 | 14.6573 |
++----+--------------+-------------+---------+
+
+Test con sequenza: img017 algoritmo: hcluster e bg_treshold: 0.5
+Results for img017
+Clustering algorithm: hcluster
+Device: NVIDIA GeForce GTX 1650
++----+--------------+-------------+---------+
+|    |   mean (fps) |   std (fps) |     tmp |
+|----+--------------+-------------+---------|
+| 12 |     0.843093 |           0 | 14.2333 |
++----+--------------+-------------+---------+
+
+Test con sequenza: img017 algoritmo: hcluster e bg_treshold: 0.75
+
+Test con sequenza: img011 algoritmo: hcluster e bg_treshold: 0.25
+Results for img011
+Clustering algorithm: hcluster
+Device: NVIDIA GeForce GTX 1650
++----+--------------+-------------+--------+
+|    |   mean (fps) |   std (fps) |    tmp |
+|----+--------------+-------------+--------|
+| 12 |     0.749674 |           0 | 16.007 |
++----+--------------+-------------+--------+
+
+Test con sequenza: img011 algoritmo: hcluster e bg_treshold: 0.5
+Results for img011
+Clustering algorithm: hcluster
+Device: NVIDIA GeForce GTX 1650
++----+--------------+-------------+---------+
+|    |   mean (fps) |   std (fps) |     tmp |
+|----+--------------+-------------+---------|
+| 12 |     0.969722 |           0 | 12.3747 |
++----+--------------+-------------+---------+
+
+Test con sequenza: img011 algoritmo: hcluster e bg_treshold: 0.75
+Results for img011
+Clustering algorithm: hcluster
+Device: NVIDIA GeForce GTX 1650
++----+--------------+-------------+---------+
+|    |   mean (fps) |   std (fps) |     tmp |
+|----+--------------+-------------+---------|
+| 12 |     0.899058 |           0 | 13.3473 |
++----+--------------+-------------+---------+
+
+Test con sequenza: img011 algoritmo: hdbscan e bg_treshold: 0.25
+Results for img011
+Clustering algorithm: hdbscan
+Device: NVIDIA GeForce GTX 1650
++----+--------------+-------------+---------+
+|    |   mean (fps) |   std (fps) |     tmp |
+|----+--------------+-------------+---------|
+| 12 |     0.880768 |           0 | 13.6245 |
++----+--------------+-------------+---------+
+
+Test con sequenza: img011 algoritmo: hdbscan e bg_treshold: 0.5
+Results for img011
+Clustering algorithm: hdbscan
+Device: NVIDIA GeForce GTX 1650
++----+--------------+-------------+---------+
+|    |   mean (fps) |   std (fps) |     tmp |
+|----+--------------+-------------+---------|
+| 12 |     0.916067 |           0 | 13.0995 |
++----+--------------+-------------+---------+
+
+Test con sequenza: img011 algoritmo: hdbscan e bg_treshold: 0.75
+Results for img011
+Clustering algorithm: hdbscan
+Device: NVIDIA GeForce GTX 1650
++----+--------------+-------------+--------+
+|    |   mean (fps) |   std (fps) |    tmp |
+|----+--------------+-------------+--------|
+| 12 |      0.90178 |           0 | 13.307 |
++----+--------------+-------------+--------+
+
+Test con sequenza: img011 algoritmo: meanshift e bg_treshold: 0.25
+Results for img011
+Clustering algorithm: meanshift
+Device: NVIDIA GeForce GTX 1650
++----+--------------+-------------+---------+
+|    |   mean (fps) |   std (fps) |     tmp |
+|----+--------------+-------------+---------|
+| 12 |     0.870854 |           0 | 13.7796 |
++----+--------------+-------------+---------+
+
+Test con sequenza: img011 algoritmo: meanshift e bg_treshold: 0.5
+Results for img011
+Clustering algorithm: meanshift
+Device: NVIDIA GeForce GTX 1650
++----+--------------+-------------+---------+
+|    |   mean (fps) |   std (fps) |     tmp |
+|----+--------------+-------------+---------|
+| 12 |     0.906242 |           0 | 13.2415 |
++----+--------------+-------------+---------+
+
+Test con sequenza: img011 algoritmo: meanshift e bg_treshold: 0.75
+Results for img011
+Clustering algorithm: meanshift
+Device: NVIDIA GeForce GTX 1650
++----+--------------+-------------+---------+
+|    |   mean (fps) |   std (fps) |     tmp |
+|----+--------------+-------------+---------|
+| 12 |     0.891147 |           0 | 13.4658 |
++----+--------------+-------------+---------+
+
+Test con sequenza: img015 algoritmo: hcluster e bg_treshold: 0.25
+Results for img015
+Clustering algorithm: hcluster
+Device: NVIDIA GeForce GTX 1650
++----+--------------+-------------+---------+
+|    |   mean (fps) |   std (fps) |     tmp |
+|----+--------------+-------------+---------|
+| 12 |     0.873888 |           0 | 13.7317 |
++----+--------------+-------------+---------+
+
+Test con sequenza: img015 algoritmo: hcluster e bg_treshold: 0.5
+Results for img015
+Clustering algorithm: hcluster
+Device: NVIDIA GeForce GTX 1650
++----+--------------+-------------+---------+
+|    |   mean (fps) |   std (fps) |     tmp |
+|----+--------------+-------------+---------|
+| 12 |     0.912848 |           0 | 13.1457 |
++----+--------------+-------------+---------+
+
+Test con sequenza: img015 algoritmo: hcluster e bg_treshold: 0.75
+Results for img015
+Clustering algorithm: hcluster
+Device: NVIDIA GeForce GTX 1650
++----+--------------+-------------+---------+
+|    |   mean (fps) |   std (fps) |     tmp |
+|----+--------------+-------------+---------|
+| 12 |     0.883234 |           0 | 13.5864 |
++----+--------------+-------------+---------+
+
+Test con sequenza: img015 algoritmo: hdbscan e bg_treshold: 0.25
+Results for img015
+Clustering algorithm: hdbscan
+Device: NVIDIA GeForce GTX 1650
++----+--------------+-------------+---------+
+|    |   mean (fps) |   std (fps) |     tmp |
+|----+--------------+-------------+---------|
+| 12 |     0.907466 |           0 | 13.2236 |
++----+--------------+-------------+---------+
+
+Test con sequenza: img015 algoritmo: hdbscan e bg_treshold: 0.5
+Results for img015
+Clustering algorithm: hdbscan
+Device: NVIDIA GeForce GTX 1650
++----+--------------+-------------+---------+
+|    |   mean (fps) |   std (fps) |     tmp |
+|----+--------------+-------------+---------|
+| 12 |     0.844064 |           0 | 14.2169 |
++----+--------------+-------------+---------+
+
+Test con sequenza: img015 algoritmo: hdbscan e bg_treshold: 0.75
+
+Test con sequenza: img011 algoritmo: hcluster e bg_treshold: 0.25
+Results for img011
+Clustering algorithm: hcluster
+Device: NVIDIA GeForce GTX 1650
++----+--------------+-------------+---------+
+|    |   mean (fps) |   std (fps) |     tmp |
+|----+--------------+-------------+---------|
+| 12 |      0.69477 |           0 | 17.2719 |
++----+--------------+-------------+---------+
+
+Test con sequenza: img011 algoritmo: hcluster e bg_treshold: 0.5
+Results for img011
+Clustering algorithm: hcluster
+Device: NVIDIA GeForce GTX 1650
++----+--------------+-------------+---------+
+|    |   mean (fps) |   std (fps) |     tmp |
+|----+--------------+-------------+---------|
+| 12 |     0.913507 |           0 | 13.1362 |
++----+--------------+-------------+---------+
+
+Test con sequenza: img011 algoritmo: hcluster e bg_treshold: 0.75
+Results for img011
+Clustering algorithm: hcluster
+Device: NVIDIA GeForce GTX 1650
++----+--------------+-------------+---------+
+|    |   mean (fps) |   std (fps) |     tmp |
+|----+--------------+-------------+---------|
+| 12 |     0.931433 |           0 | 12.8834 |
++----+--------------+-------------+---------+
+
+Test con sequenza: img011 algoritmo: hdbscan e bg_treshold: 0.25
+Results for img011
+Clustering algorithm: hdbscan
+Device: NVIDIA GeForce GTX 1650
++----+--------------+-------------+---------+
+|    |   mean (fps) |   std (fps) |     tmp |
+|----+--------------+-------------+---------|
+| 12 |     0.883737 |           0 | 13.5787 |
++----+--------------+-------------+---------+
+
+Test con sequenza: img011 algoritmo: hdbscan e bg_treshold: 0.5
+Results for img011
+Clustering algorithm: hdbscan
+Device: NVIDIA GeForce GTX 1650
++----+--------------+-------------+---------+
+|    |   mean (fps) |   std (fps) |     tmp |
+|----+--------------+-------------+---------|
+| 12 |     0.871531 |           0 | 13.7689 |
++----+--------------+-------------+---------+
+
+Test con sequenza: img011 algoritmo: hdbscan e bg_treshold: 0.75
+Results for img011
+Clustering algorithm: hdbscan
+Device: NVIDIA GeForce GTX 1650
++----+--------------+-------------+---------+
+|    |   mean (fps) |   std (fps) |     tmp |
+|----+--------------+-------------+---------|
+| 12 |     0.920127 |           0 | 13.0417 |
++----+--------------+-------------+---------+
+
+Test con sequenza: img011 algoritmo: meanshift e bg_treshold: 0.25
+Results for img011
+Clustering algorithm: meanshift
+Device: NVIDIA GeForce GTX 1650
++----+--------------+-------------+---------+
+|    |   mean (fps) |   std (fps) |     tmp |
+|----+--------------+-------------+---------|
+| 12 |     0.893925 |           0 | 13.4239 |
++----+--------------+-------------+---------+
+
+Test con sequenza: img011 algoritmo: meanshift e bg_treshold: 0.5
+Results for img011
+Clustering algorithm: meanshift
+Device: NVIDIA GeForce GTX 1650
++----+--------------+-------------+---------+
+|    |   mean (fps) |   std (fps) |     tmp |
+|----+--------------+-------------+---------|
+| 12 |     0.906446 |           0 | 13.2385 |
++----+--------------+-------------+---------+
+
+Test con sequenza: img011 algoritmo: meanshift e bg_treshold: 0.75
+Results for img011
+Clustering algorithm: meanshift
+Device: NVIDIA GeForce GTX 1650
++----+--------------+-------------+--------+
+|    |   mean (fps) |   std (fps) |    tmp |
+|----+--------------+-------------+--------|
+| 12 |     0.911715 |           0 | 13.162 |
++----+--------------+-------------+--------+
+
+Test con sequenza: img015 algoritmo: hcluster e bg_treshold: 0.25
+Results for img015
+Clustering algorithm: hcluster
+Device: NVIDIA GeForce GTX 1650
++----+--------------+-------------+---------+
+|    |   mean (fps) |   std (fps) |     tmp |
+|----+--------------+-------------+---------|
+| 12 |     0.904437 |           0 | 13.2679 |
++----+--------------+-------------+---------+
+
+Test con sequenza: img015 algoritmo: hcluster e bg_treshold: 0.5
+Results for img015
+Clustering algorithm: hcluster
+Device: NVIDIA GeForce GTX 1650
++----+--------------+-------------+---------+
+|    |   mean (fps) |   std (fps) |     tmp |
+|----+--------------+-------------+---------|
+| 12 |     0.923471 |           0 | 12.9944 |
++----+--------------+-------------+---------+
+
+Test con sequenza: img015 algoritmo: hcluster e bg_treshold: 0.75
