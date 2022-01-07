@@ -1,0 +1,10 @@
+ID0#(1074,1007)#(1074,1007)#(1073,1009)#(1075,1006)#(1074,1008)#(1078,1006)#(1075,1009)#(1080,1004)#(1077,1008)#(1078,1008)#(1078,1008)#(1078,1008)#NS#south-west#north-east#south-west#north-east#south-west#north-east#south-west#east#NS#NS#
+ID1#(1838,562)#(1839,561)#(1842,561)#(1840,561)#(1844,561)#(1842,560)#(1846,561)#(1845,560)#(1848,561)#(1849,561)#(1852,557)#(1853,556)#north-east#east#west#east#north-west#south-east#north-west#south-east#east#north-east#north-east#
+ID2#(1637,473)#(1637,473)#(1637,473)#(1637,472)#(1637,473)#(1637,473)#(1637,472)#(1637,473)#(1637,473)#(1637,473)#(1637,473)#(1637,473)#NS#NS#north#south#NS#north#south#NS#NS#NS#NS#
+ID3#(1388,555)#(1389,556)#(1395,554)#(1392,558)#(1391,555)#(1394,562)#(1395,558)#(1395,560)#(1399,560)#(1397,559)#(1398,559)#(1397,557)#south-east#north-east#south-west#north-west#south-east#north-east#south#east#north-west#east#north-west#
+ID4#(1182,555)#(1181,555)#(1181,555)#(1182,555)#(1182,554)#(1185,555)#(1180,554)#(1190,556)#(1180,554)#(1132,553)#(1136,554)#(1183,555)#west#NS#east#north#south-east#north-west#south-east#north-west#north-west#south-east#south-east#
+ID5#(1042,171)#(1041,170)#(1035,168)#(1037,167)#(1033,165)#(1038,163)#(1031,160)#(1048,186)#(1031,158)#(1032,160)#(1041,182)#(1043,184)#north-west#north-west#north-east#north-west#north-east#north-west#south-east#north-west#south-east#south-east#south-east#
+ID6#(938,497)#(931,539)#(988,503)#(931,541)#(937,531)#(927,547)#(934,536)#(899,552)#(932,540)#(904,541)#(901,549)#(900,551)#south-west#north-east#south-west#north-east#south-west#north-east#south-west#north-east#south-west#south-west#south-west#
+ID7#_#(962,290)#(962,290)#(962,287)#(961,286)#(963,284)#(962,284)#(964,282)#(962,281)#(963,280)#(965,280)#(965,279)#NS#north#north-west#north-east#west#north-east#north-west#north-east#east#north#
+ID8#_#_#_#_#_#_#_#(1039,555)#(1039,555)#(1039,555)#(1039,555)#(1038,553)#NS#NS#NS#north-west#
+ID9#_#_#_#_#_#_#_#(981,15)#(981,15)#(981,15)#(981,15)#(981,15)#NS#NS#NS#NS#

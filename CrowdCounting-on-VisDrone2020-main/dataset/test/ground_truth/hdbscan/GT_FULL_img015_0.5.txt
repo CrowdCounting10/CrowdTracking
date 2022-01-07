@@ -1,0 +1,5 @@
+ID0#(1711,677)#(1710,676)#(1709,677)#(1728,666)#(1743,648)#(1717,675)#(1708,680)#(1761,661)#(1747,665)#(1779,646)#(1760,668)#(1760,668)#north-west#south-west#north-east#north-east#south-west#south-west#north-east#south-west#north-east#south-west#NS#
+ID1#(446,674)#(439,672)#(444,673)#(444,673)#(443,673)#(442,673)#(442,673)#(419,669)#(440,673)#(435,672)#(439,673)#(438,674)#north-west#south-east#NS#west#west#NS#north-west#south-east#north-west#south-east#south-west#
+ID2#_#(1809,617)#(1809,618)#(1809,618)#(1809,618)#(1809,618)#(1807,619)#(1807,619)#(1807,619)#(1807,619)#(1807,619)#(1783,643)#south#NS#NS#NS#south-west#NS#NS#NS#NS#south-west#
+ID3#_#_#(117,601)#(117,602)#(116,602)#(116,602)#(115,602)#(115,602)#(114,603)#(114,603)#(113,602)#(112,602)#south#west#NS#west#NS#south-west#NS#north-west#west#
+ID4#_#_#_#_#_#_#(1839,433)#(1839,433)#(1838,431)#(1837,430)#(1837,429)#(1837,428)#NS#north-west#north-west#north#north#
