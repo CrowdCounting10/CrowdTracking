@@ -28,3 +28,5 @@ For run mode, you must also specify:
 <li>--path: path to the video or image file, or the folder containing the image</li>
 <li>--callbacks: list of callback function to be executed after the forward of each element</li>
 </ul>
+
+
