@@ -3,11 +3,9 @@ Crowd analysis from drones has attracted increasing attention in recent times, t
 
 ## Running the code
 
-### Requirements
+Main requirement: Python 3.8
 
-Python 3.8
-
-Install requirement.txt
+Install requirements.txt
 
 To train the model, use:
 - main.py
