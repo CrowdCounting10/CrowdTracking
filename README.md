@@ -1,2 +1,2 @@
 # CrowdTracking
- Crowd counting and Crowd Tracking
+ Crowd Counting and Crowd Tracking
